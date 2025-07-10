@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "748592648772",
+    "project_id": "goggle-singin-app",
+    "storage_bucket": "goggle-singin-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748592648772:android:a863ba3cfda49197696211",
+        "android_client_info": {
+          "package_name": "com.example.th5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748592648772-k8thbibihgc765f5ea7emjbeqlm7blvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.th5",
+            "certificate_hash": "f753500d1a4ea5a624a56827a8cc9012178ed4e8"
+          }
+        },
+        {
+          "client_id": "748592648772-qm4cm092cjgm987h6gqjmi791asemo8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Fee3oDiBMGz5GJFFQ_vgrXAyHJ9Jju4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748592648772-qm4cm092cjgm987h6gqjmi791asemo8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
